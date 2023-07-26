@@ -113,7 +113,7 @@ In this method we can get the output and then we can convert those output into f
 bullet point details can I add to the following prompt to improve the output? My prompt is **[your prompt]**.
 2. Great, now turn these bullet points into a **fill in the blank format** which I can put my information into.
 
-## Examples
+### Examples
 • I have 1000000 Rupees in savings, what should I invest in?
 • How do I find and hire more talented designers for my fashion brand?
 
@@ -121,3 +121,20 @@ So examples would be come like this:
 1. You are an expert at creating prompts that generate the most concise and resourceful responses. What additional
 bullet point details can I add to the following prompt to improve the output? My prompt is **I have 1000000 Rupees in savings, what should I invest in?**
 2. Great, now turn these bullet points into a **fill in the blank format** which I can put my information into.
+
+   <hr>
+
+## Perspective Prompting
+through this method we can get the output based on someone's perspective. like we can get improvement advice perspective from CEO or from Sales Manager or IT engineer.
+
+### Prompt Formula
+**• Singular Perspective**: Please write about **[topic]** from the perspective of **[view point]**.  
+**• Multiple Perspectives**: Please write an argument **[for/against]** the topic of **[topic]** from multiple diverse perspectives.  
+Include the names and points of view of the different perspectives, such as **[view points]**.
+
+### Examples
+**• Singular Perspective**: Please write about improving as a **IT Engineer** from the perspective of a **Companies CEO**.  
+**• Singular Perspective**: Please write about improving as a **IT Engineer** from the perspective of a **human resource**.  
+**• Multiple Perspectives**: Please write an argument **against** _genetically modified organisms (GMOs) that considers_
+multiple perspectives. Include the names and points of view of the different perspectives, such as a **farmer**, a
+**consumer**, and a **geneticist**.
