@@ -181,3 +181,50 @@ characteristics, quantitative factors, functionality, impact, key takeaways, and
 two pieces of content: The business and design philosophy of **Apple** and **Microsoft**
 
 
+## RGC Prompting
+This framework presents a robust structure that can be applied **universally to any input and intended output**. Its
+objective is to establish a standardized format that optimizes the framing for ChatGPT and thereby enhances its
+performance across a broad spectrum of inputs. 
+
+### Prompt Formula
+**• Role** - ChatGPT’s persona (**You are** an expert marketer)  
+**• Result** - Desired output (**Create** 5 emails ending with a call to action)  
+**• Goal** - Purpose of the output (The **goal** is to drive sales to my product)  
+**• Context** - Who, what, where, why (The emails are **for my** online audience of entrepreneurs)  
+**• Constraint** - Limitations and guidelines (The emails **should be** friendly and less than 200 words)  
+
+### Examples
+• You are an expert **[role]**. Create **[result]**. The goal is **[end goal]**. The content is for **[context]**. Your guidelines for writing
+are **[constraints]**.  
+• You are an expert **marketer**. _Create 5 emails ending with a call to action_. The goal is to drive sales to my product. The
+emails are for my online audience of entrepreneurs. The emails should be friendly and less than 200 words.  
+• You are an expert **nutritionist**. Create **a 7 day meal plan for my 5 foot 7, 40 year old, female client who exercises 3
+times a week**. The goal is for her to lose 1 KG of fat a week by being in a caloric deficit and eating the right amount
+of carbs, sugar, and protein. She **doesn’t eat nonveg and wants to spend 1000 Rupees per week on food**. The meal plan
+should give the recipes, cooking directions, preparation times, and a specific meal for breakfast, lunch, and dinner.  
+
+## I Want You To Act As Prompting
+This second option presents another robust structure that can be applied **universally to any input** and intended
+output. Its objective is to establish a _standardized format that optimizes the framing_ for ChatGPT and thereby
+enhances its performance across a broad spectrum of inputs. 
+
+### Prompt Formula
+1. **“I want you to act as a…”** (historian, biologist, etc.) This helps to set the stage for ChatGPT’s persona.  
+2. **“I will give you…”** (my target audience, a specific direction, a product, etc.) This is where you set up the dynamic  
+between you and ChatGPT.
+3. **“You will then…”** (create 5 emails, make a video script, summarize, etc.)  
+4. **“In a _____ tone/style…”** (upbeat, professional, tabular format) This is where you explain your desired output along
+with the personality/style of writing for the output.  
+5. **“The important details are…”** (target audience, cost per project, etc.) Be sure to explain all important details and
+elaborate on specifics from bullet point 2.  
+6. **Refine your output as needed** “Be more persuasive” “Put the most important keywords in bold” “Now put this in
+tabular format”
+
+### Examples
+• I want you to act as a **personal coach**. I will give you my **personal and professional goals**. You will then **create a 7
+day schedule in tabular format** for me to follow in **order to hit my goals**. _My short term daily goals are meditate,
+workout, read, and work on my projects. My long term goals are to sign 30 new clients and save 1000000 Rupees over the next
+6 months._  
+• I want you to act as a **virtual doctor**. I will **describe my symptoms** and you will **provide a diagnosis and treatment
+plan**. You should _only reply with your explanation, diagnosis, and treatment plan, and nothing else._ My important
+details are, _"I have been experiencing a headache and dizziness for the last few days, what could be the cause?”_
