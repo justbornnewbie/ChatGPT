@@ -138,3 +138,46 @@ Include the names and points of view of the different perspectives, such as **[v
 **• Multiple Perspectives**: Please write an argument **against** _genetically modified organisms (GMOs) that considers_
 multiple perspectives. Include the names and points of view of the different perspectives, such as a **farmer**, a
 **consumer**, and a **geneticist**.
+
+## Constructive Critic Prompting
+This prompt can provide objective and **expert feedback** on your writing, _highlighting areas for improvement and
+offering constructive criticism_ to help you refine and enhance your copy.
+
+### Prompt Formula
+• I want you to act as an expert and critic in the subject of **[industry]**. Criticize my content pasted below, convince me
+why it’s bad, and give me constructive criticism on how it should be improved. For some context, my **[product or
+service]** is for **[details, demographic, etc]**. The purpose of my **[product or service]** is to **[your content goal]**. Let’s
+think step by step and I want you to address each piece of content individually. Here is my content to critique, **[your
+content]**.
+
+### Examples
+• I want you to act as an expert and critic in the subject of **fashion**. Criticize my content pasted below, convince me why
+it’s bad, and give me constructive criticism on how it should be improved. For some context, my **product description**
+is for my _clothing brand for 20 to 30 year old eco-friendly customers, who appreciate unique modern aesthetics_. The
+purpose of my **product description** is to **get customers to purchase more clothing products**. Let’s think step by
+step and I want you to address each piece of content individually. Here is my content to critique, _“Introducing our latest
+addition to our eco-friendly clothing collection, the "Modern Vibes" t-shirt! Made from 100% organic cotton, this t-shirt
+not only feels great on your skin but is also kind to the environment. With a sleek and modern design, this t-shirt is
+perfect for the fashion-savvy 20 to 30 year old who wants to make a statement while still being conscious of their
+environmental impact."_
+
+So this will give suggestions and also it will give the modified version of solution.
+
+
+## Comparative Prompting
+Comparative prompting highlights _key similarities and differences_ across various factors which help you make
+more informed decisions and gain a deeper understanding of the **strengths** and **weaknesses** of two options.
+
+### Prompt Formula
+• Please compare and contrast the following text examples. Outline the similarities, differences, qualitative
+characteristics, quantitative factors, functionality, impact, key takeaways, and other factors into one table. Here are the
+two pieces of content: **[content 1]** and **[content 2]**.
+
+### Examples
+• The business and design philosophy of **Apple** and **Microsoft**.
+• Investing in **real estate** and investing in **cryptocurrency**
+• Please compare and contrast the following text examples. Outline the similarities, differences, qualitative
+characteristics, quantitative factors, functionality, impact, key takeaways, and other factors into one table. Here are the
+two pieces of content: The business and design philosophy of **Apple** and **Microsoft**
+
+
