@@ -1,5 +1,10 @@
-Here you can say lots of fun things about your site.
+Use below link to use lots of awesome ChatGPT 
+https://github.com/justbornnewbie/awesome-chatgpt-prompts 
 
-Maybe say a some things about yourself.
+How many tokens can we use in ChatGPT?
+GPT3.5: 4096
+GPT 4: 8000
+4 words is equal to 1 token
+Go on https://platform.openai.com/tokenizer to calculate the token of each line or word or paragraph
 
-Or maybe what you plan to blog about.
+Statement "top youtubers of the world" will consume 7 tokens.
